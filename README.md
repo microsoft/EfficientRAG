@@ -1,5 +1,3 @@
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/74cc020a-8433-4f0a-81ff-76d713f1959a"># EfficientRAG-official
-
 <div align=center>
     <img src="static/bert_labeler.png" width=300px>
 </div>
